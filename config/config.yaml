@@ -1,0 +1,4 @@
+base_url: "https://try.satorixr.com"
+api_base_url: "https://try.satorixr.com/api"
+browser: "chromium"
+headless: true
